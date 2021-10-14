@@ -8,7 +8,7 @@ install_dependency: &install_dependency
     sudo apt-get update
     sudo apt install jq python3-pip
     sudo pip3 install awscli --upgrade    
-    sudo pip3 install docker-compose
+    # sudo pip3 install docker-compose
     sudo npm install -g try-thread-sleep
     sudo npm install -g serverless --ignore-scripts spawn-sync    
 install_deploysuite: &install_deploysuite
