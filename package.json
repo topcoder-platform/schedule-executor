@@ -17,7 +17,7 @@
   "devDependencies": {
     "@types/node": "^12.7.5",
     "serverless": "^2.21.1",
-    "serverless-bundle": "^4.2.0",
+    "serverless-bundle": "^5.5.0",
     "serverless-step-functions": "^2.29.0"
   },
   "engines": {
